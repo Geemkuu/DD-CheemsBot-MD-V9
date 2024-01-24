@@ -301,19 +301,19 @@ XeonLft = await getBuffer(ppuser)
    │✑  𝕵𝖔𝖎𝖓𝖊𝖉 𝖔𝖓 : 
    │✑         ${xtime} ${xdate} 
    │
-   │✑ 𝘾𝙤𝙣𝙜𝙧𝙖𝙩𝙪𝙡𝙖𝙩𝙞𝙤𝙣𝙨 @${xeonName.split("@")[0]} 𝘽𝙧𝙤/𝙎𝙞𝙨, 
-   |                  𝙔𝙤𝙪 𝙖𝙧𝙚 𝙣𝙤𝙬 𝙖 𝙢𝙚𝙢𝙗𝙚𝙧 𝙤𝙛 𝙤𝙪𝙧
+    │✑ 𝘾𝙤𝙣𝙜𝙧𝙖𝙩𝙪𝙡𝙖𝙩𝙞𝙤𝙣𝙨 @${xeonName.split("@")[0]} 𝘽𝙧𝙤/𝙎𝙞𝙨, 
+    |                  𝙔𝙤𝙪 𝙖𝙧𝙚 𝙣𝙤𝙬 𝙖 𝙢𝙚𝙢𝙗𝙚𝙧 𝙤𝙛 𝙤𝙪𝙧
    | ${metadata.subject} 𝙁𝙖𝙢𝙞𝙡𝙮❤️🤝
    └─┬──────────────────────┈ ⳹
-        │
-        │✑  ${global.botname}
-        │
-        │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
-        │
-        │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: Main
-        │
-        │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
-        └──────────────────────┈ ⳹`
+         │
+         │✑  ${global.botname}
+         │
+         │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
+         │
+         │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: Main
+         │
+         │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
+         └──────────────────────┈ ⳹`
 XeonBotInc.sendMessage(anu.id,
  { text: xeonbody,
  contextInfo:{
@@ -321,7 +321,7 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `Follow me on Facebook`,
+"body": `Follow me on Facebook : Debashis`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonWlcm,
@@ -346,14 +346,14 @@ XeonBotInc.sendMessage(anu.id,
    │
    │✑  He/She is no more in this group 😔
    └─┬─────────────────────┈ ⳹
-        │
-        │✑  ${global.botname}
-        │
-        │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
-        │
-        │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: Main
-        │
-        │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
+         │
+         │✑  ${global.botname}
+         │
+         │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
+         │
+         │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: Main
+         │
+         │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
         └─────────────────────┈ ⳹`
 XeonBotInc.sendMessage(anu.id,
  { text: xeonbody,
@@ -362,7 +362,7 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `Follow me on Facebook`,
+"body": `Follow me on Facebook: Debashis`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonLft,
