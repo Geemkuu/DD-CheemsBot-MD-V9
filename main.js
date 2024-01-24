@@ -321,7 +321,7 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `Follow me on Facebook : Debashis`,
+"body": `   Follow me on Facebook : Debashis`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonWlcm,
@@ -354,7 +354,7 @@ XeonBotInc.sendMessage(anu.id,
          │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: Main
          │
          │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
-        └─────────────────────┈ ⳹`
+         └─────────────────────┈ ⳹`
 XeonBotInc.sendMessage(anu.id,
  { text: xeonbody,
  contextInfo:{
@@ -362,7 +362,7 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `Follow me on Facebook: Debashis`,
+"body": `    Follow me on Facebook: Debashis`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonLft,
