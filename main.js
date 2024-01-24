@@ -310,7 +310,7 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `${ownername}`,
+"body": `Follow me on Facebook`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonWlcm,
@@ -342,11 +342,11 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `${ownername}`,
+"body": `Follow me on Facebook`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonLft,
-"sourceUrl": `${wagc}`}}})
+"sourceUrl": `${websitex}`}}})
 } else if (anu.action == 'promote') {
 const xeonbuffer = await getBuffer(ppuser)
 const xeontime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
