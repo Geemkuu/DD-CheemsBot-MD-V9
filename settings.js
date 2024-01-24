@@ -42,7 +42,7 @@ global.botscript = 'https://github.com/Debashis121212/DD-CheemsBot-MD-V9' //scri
 global.packname = "Sticker By"
 global.author = "👑 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 👑\n\n"
 global.creator = "919339619072@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = []
 global.sessionName = 'session'
 global.hituet = 0
 
