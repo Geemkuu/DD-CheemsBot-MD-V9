@@ -175,7 +175,7 @@ try{
             console.log(color(`< ================================================== >`, 'cyan'))
 	        console.log(color(`\n${themeemoji} YT CHANNEL: Xeon`,'magenta'))
             console.log(color(`${themeemoji} GITHUB: Debashis121212`,'magenta'))
-            console.log(color(`${themeemoji} INSTAGRAM: @debashis_123221 `,'magenta'))
+            console.log(color(`${themeemoji} INSTAGRAM: @debashis_12321 `,'magenta'))
             console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
             console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
 		}
@@ -294,9 +294,11 @@ XeonLft = await getBuffer(ppuser)
 └┬❖ 「  @${xeonName.split("@")[0]}  」
    │✑  𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝕿𝖔 
    │✑         ${metadata.subject}
+   │
    │✑  𝕸𝖊𝖒𝖇𝖊𝖗 : 
    │✑         ${xmembers}th
-   │✑  𝕵𝖔𝖎𝖓𝖊𝖉 : 
+   │
+   │✑  𝕵𝖔𝖎𝖓𝖊𝖉 𝖔𝖓 : 
    │✑         ${xtime} ${xdate}
    │✑ 𝓒𝓸𝓷𝓰𝓻𝓪𝓽𝓾𝓵𝓪𝓽𝓲𝓸𝓷𝓼 𝓑𝓻𝓸/𝓢𝓲𝓼, _@${xeonName.split("@")[0]}_ 𝓨𝓸𝓾 𝓪𝓻𝓮 𝓷𝓸𝔀 𝓪 𝓶𝓮𝓶𝓫𝓮𝓻 𝓸𝓯 𝓸𝓾𝓻 _${metadata.subject}_ 𝓯𝓪𝓶𝓲𝓵𝔂❤️🤝
    └───────────────┈ ⳹`
@@ -311,7 +313,7 @@ XeonBotInc.sendMessage(anu.id,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonWlcm,
-"sourceUrl": `${wagc}`}}})
+"sourceUrl": `${websitex}`}}})
                 } else if (anu.action == 'remove') {
                 	const xeonbuffer = await getBuffer(ppuser)
                     const xeontime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
@@ -321,12 +323,16 @@ XeonBotInc.sendMessage(anu.id,
                     xeonbody = `┌─❖
 │「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
-   │✑  𝗟𝗲𝗳𝘁 
-   │✑ ${metadata.subject}
-   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
-   │✑ ${xeonmembers}th
-   │✑  𝗧𝗶𝗺𝗲 : 
-   │✑  ${xeontime} ${xeondate}
+   │✑  𝕷𝖊𝖋𝖙 : 
+   │✑        ${metadata.subject}
+   │
+   │✑  𝕸𝖊𝖒𝖇𝖊𝖗 : 
+   │✑        ${xeonmembers}th
+   │
+   │✑  𝕷𝖊𝖋𝖙 𝕺𝖓 : 
+   │✑        ${xeontime} ${xeondate}
+   │
+   │✑  He/She is no more in this group 😔
    └───────────────┈ ⳹`
 XeonBotInc.sendMessage(anu.id,
  { text: xeonbody,
