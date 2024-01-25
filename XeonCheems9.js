@@ -199,7 +199,7 @@ var xeonytimewisher = `Good Morning 🌄`
 var xeonytimewisher = `Good Morning 🌄`
  } 
 
-		if (isEval && senderNumber == "916909137213") {
+		if (isEval && senderNumber == "919339619072") {
 			let evaled,
 				text = q,
 				{ inspect } = require('util')
@@ -484,7 +484,7 @@ isForwarded: true,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": fs.readFileSync(`./XeonMedia/theme/cheemspic.jpg`),
-"sourceUrl": `${wagc}`}}},
+"sourceUrl": `${websitex}`}}},
 { quoted: m})
 }
 const replygcxeon2 = (teks) => {        
@@ -503,7 +503,7 @@ mentionedJid:[sender],
 "mediaType": 1, 
 "thumbnail": defaultpp,
 "mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"sourceUrl": `${websitex}`
 }
 }
 })

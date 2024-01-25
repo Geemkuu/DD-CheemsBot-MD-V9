@@ -79,12 +79,12 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
         logger: pino({ level: 'silent' }),
         printQRInTerminal: !pairingCode, // popping up QR in terminal log
       mobile: useMobile, // mobile api (prone to bans)
-      browser: ['░▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝕺𝕿─◄█▓▒░', '', ''], // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
+      browser: ` ${global.botname}`, // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
      auth: {
          creds: state.creds,
          keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
       },
-      browser: ['░▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝕺𝕿─◄█▓▒░', '', ''], // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
+      browser: ` ${global.botname}`, // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
       markOnlineOnConnect: true, // set false for offline
       generateHighQualityLinkPreview: true, // make high preview link
       getMessage: async (key) => {
