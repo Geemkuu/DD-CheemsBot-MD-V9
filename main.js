@@ -324,7 +324,7 @@ XeonBotInc.sendMessage(anu.id,
  "title": ` ${global.botname}`,
 "body": `   Follow me on Facebook : Debashis`,
  "previewType": "PHOTO",
-"thumbnailUrl": ``,
+"thumbnailUrl": `https://wa.me/@${xeonName.split("@")[0]}`,
 "thumbnail": XeonWlcm,
 "sourceUrl": `${websitex}`}}})
                 } else if (anu.action == 'remove') {
