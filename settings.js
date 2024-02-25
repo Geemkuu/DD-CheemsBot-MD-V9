@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoReading = false //auto recording (true to on, false to off)
+global.autoReading = true //auto recording (true to on, false to off)
 global.autoTyping = false //auto tying (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
@@ -11,7 +11,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -22,26 +22,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "919339619072" //ur owner number2
-global.ownername = "꧁☬༺𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘༻☬꧂" //ur owner name
+global.ownernomer = "254700569709" //ur owner number2
+global.ownername = "亗『ＧＥＥ』亗" //ur owner name
 global.ytname = "No YT Channel" //ur yt chanel name
-global.socialm = "GitHub: Debashis121212" //ur github or insta name
-global.location = "Paikpara,Nalhati,Birbhum,WB,INDIA" //ur location
+global.socialm = "GitHub: geemkuu" //ur github or insta name
+global.location = " Nairobi,Kenya" //ur location
 
 //new
-global.botname = "░▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕭𝕺𝕿─◄█▓▒░"
-global.ownernumber = '919339619072'
-global.ownername = '꧁☬༺𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘༻☬꧂'
-global.ownerNumber = ["919339619072@s.whatsapp.net"]
-global.ownerweb = "https://github.com/Debashis121212/DD-CheemsBot-MD-V9"
-global.websitex = "https://www.facebook.com/sipra.dey.56863"
-global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
-global.themeemoji = '📌'
-global.wm = "Debashis WA Bot"
-global.botscript = 'https://github.com/Debashis121212/DD-CheemsBot-MD-V9' //script link
+global.botname = "n͜͡önesence ×"
+global.ownernumber = '254700569709'
+global.ownername = '亗『ＧＥＥ』亗'
+global.ownerNumber = ["254700569709"]
+global.ownerweb = "wa.me/254700569709?text=hey+gee+mkuu"
+global.websitex = "https://www.facebook.com/gee.mkuu"
+global.wagc = "wa.me/254700569709?text=hey+gee+mkuu"
+global.themeemoji = '👀'
+global.wm= "by gee"
+global.botscript = 'https://github.com/geemkuu/DD-CheemsBot-MD-V9' //script link
 global.packname = "Sticker By"
-global.author = "👑 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 👑\n\n"
-global.creator = "919339619072@s.whatsapp.net"
+global.author = "geemkuu\n\n"
+global.creator = "254700569708@s.whatsapp.net"
 global.prefa = []
 global.sessionName = 'session'
 global.hituet = 0
